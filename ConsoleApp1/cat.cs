@@ -8,5 +8,6 @@ namespace ConsoleApp1
 {
     internal class cat
     {
+        public string Name { get; set; }    
     }
 }
